@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff8bf4db-3dfa-4327-b572-07b515020833" name="projets-manager" url="http://projet.goodplanet.be">
+        <fileTransfer host="vps242479.ovh.net" port="22" rootFolder="/srv/projets-manager" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
